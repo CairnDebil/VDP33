@@ -1,0 +1,11 @@
+VDP33 is an original implementation. It shares no code with any hardware
+instrument or with other Schwung modules.
+
+src/dsp/plugin_api_v1.h is the Schwung plugin ABI header, copied unchanged from
+the schwung-vocoder / Schwung repositories (MIT License,
+Copyright (c) 2025-2026 Charles Vestal).
+
+"VP-330" and "Vocoder Plus" are trademarks of Roland Corporation; "VC340" is a
+trademark of Music Tribe / Behringer. They are mentioned only to describe the
+sound this module is modelled on. VDP33 is not affiliated with or endorsed by
+either company.

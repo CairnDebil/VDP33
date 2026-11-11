@@ -1,0 +1,7 @@
+build/
+dist/
+*.tar.gz
+tests/render_test
+tests/demo/*.wav
+.DS_Store
+*.dSYM/

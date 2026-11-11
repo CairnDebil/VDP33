@@ -1,0 +1,21 @@
+{
+  "id": "vdp33",
+  "name": "VDP33",
+  "abbrev": "VD",
+  "version": "0.2.0",
+  "description": "Vocoder / strings / human-voice ensemble synth with a 10-band vocoder",
+  "author": "CairnDebil",
+  "license": "MIT",
+  "ui": "ui.js",
+  "dsp": "dsp.so",
+  "api_version": 2,
+  "capabilities": {
+    "audio_out": true,
+    "audio_in": true,
+    "midi_in": true,
+    "midi_out": false,
+    "aftertouch": false,
+    "chainable": true,
+    "component_type": "sound_generator"
+  }
+}

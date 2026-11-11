@@ -1,0 +1,82 @@
+{
+  "title": "VDP33",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "Vocoder, strings and",
+        "human-voice synth,",
+        "laid out like the",
+        "VC340 panel.",
+        "",
+        "Vocoder modulator is",
+        "the Move mic/line-in.",
+        "Use headphones or a",
+        "line-in cable: the",
+        "feedback guard mutes",
+        "mic + speakers."
+      ]
+    },
+    {
+      "title": "Balance",
+      "lines": [
+        "Direct Mic, Voice and",
+        "Strings have a fader.",
+        "The vocoder has none:",
+        "use Mic Level and",
+        "Vocoder Tone.",
+        "",
+        "Release is one fader",
+        "for all sections."
+      ]
+    },
+    {
+      "title": "Keyboard",
+      "lines": [
+        "Vocoder and Strings:",
+        " Off/Lower/Upper/All",
+        "",
+        "Human Voice switches:",
+        " Male 8' Lower",
+        " Male 4' Lower",
+        " Male 8' Upper",
+        " Female 4' Upper",
+        "",
+        "Split: key between",
+        "Lower and Upper.",
+        "Velocity: Fixed or",
+        "Dynamic."
+      ]
+    },
+    {
+      "title": "Ensemble / Vibrato",
+      "lines": [
+        "Strings always have",
+        "the Ensemble. Voice",
+        "and Vocoder have a",
+        "switch each.",
+        "",
+        "Vibrato (rate, delay,",
+        "depth) acts on Voice",
+        "and Vocoder only."
+      ]
+    },
+    {
+      "title": "Pitch Shift",
+      "lines": [
+        "Auto: each key press",
+        " drops the pitch,",
+        " then it glides up.",
+        "Manual: Pitch Down",
+        " fader.",
+        "Off/Pedal: CC 66.",
+        "Pitch Set = amount,",
+        "Time = glide time.",
+        "",
+        "Pedal Gate (CC 64):",
+        "vocoder sounds only",
+        "while pressed."
+      ]
+    }
+  ]
+}
